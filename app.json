@@ -31,7 +31,7 @@
         },
         "CAPTIONLINK":{
             "description": "Caption ketika link media yang dikirim di tekan",
-            "value":" "
+            "value":""
         },
         "WELCOMEJOINBOT":{
             "description": "Masukkan pesan sebelum pengguna bergabung",

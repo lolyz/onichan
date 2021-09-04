@@ -35,11 +35,11 @@
         },
         "WELCOMEJOINBOT":{
             "description": "Masukkan pesan sebelum pengguna bergabung",
-            "value":"Dapatkan Link Video <a href="https://t.me/terviral”>Di sini</a>"
+            "value":"Dapatkan Link Video <a href="https://t.me/terviral">Di sini</a>"
         },
         "MESSAGEWELCOMEBOT":{
             "description": "Masukkan pesan selamat datang ketika pengguna bergabung",
-            "value":"Kamu Harus Join Channel Atau Group Terlebih Dahulu Lalu Tekan <a href="https://t.me/terviral”>Coba Lagi</a>"
+            "value":"Kamu Harus Join Channel Atau Group Terlebih Dahulu Lalu Tekan <a href="https://t.me/terviral">Coba Lagi</a>"
         },
         "CHANNELJOIN":{
             "description": "Masukkan ID channel grup untuk identifikasi BOT bisa membaca pengguna yang masuk",

@@ -1,21 +1,21 @@
 {
-	"name": "RatuFileSaver",
-	"description": "Ratu File Saver",
-	"repository": "https://github.com/BimoSora/RatuFileSaver",
+	"name": "OniChan",
+	"description": "OniChan",
+	"repository": "https://github.com/lolyz/onichan",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg",
 	"keywords": ["telegram","filesaver","bot","nodejs"],
 		"env": {
 		"TOKEN": {
                          "description": "Token bot disediakan oleh  @botfather",
-                "value":"1777579213:AAGsG-HyHOvsmfTp-CG1WIcx4HBrilj6JwU"
+                "value":""
 	        },
         "DOMAIN":{
             "description": "Masukkan nama aplikasi Anda",
-            "value": "onichanfile"
+            "value": ""
 	       },
         "DB_URL":{
             "description": "Dapatkan url basis data mongodb dari https://www.mongodb.com/cloud/atlas with database name = mediaFile and collection name = fileBackup",
-            "value":"mongodb+srv://sipmks:sipmks#20@cluster0.fhtvg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+            "value":"mongodb+srv://lolyz:sipmks20@cluster0.aqwwt.mongodb.net/sipmks20?retryWrites=true&w=majority"
                },
         "ADMIN":{
             "description": "Masukkan id akun kamu",
@@ -23,31 +23,31 @@
         },
         "BOTUSERNAME":{
             "description": "Masukkan nama pengguna bot Anda tanpa @ dan harus huruf kecil",
-            "value":"uptolink_bot"
+            "value":""
         },
         "LOG_CHANNEL":{
             "description": "Buat saluran pribadi dan masukkan id saluran untuk memantau file dan mendapatkan data pengguna dan file",
-            "value":"-1001573093299"
+            "value":""
         },
         "CAPTIONLINK":{
             "description": "Caption ketika link media yang dikirim di tekan",
-            "value":""
+            "value":" "
         },
         "WELCOMEJOINBOT":{
             "description": "Masukkan pesan sebelum pengguna bergabung",
-            "value":""
+            "value":"Dapatkan Link Video <a href="https://t.me/terviral”>Di sini</a>"
         },
         "MESSAGEWELCOMEBOT":{
             "description": "Masukkan pesan selamat datang ketika pengguna bergabung",
-            "value":""
+            "value":"Kamu Harus Join Channel Atau Group Terlebih Dahulu Lalu Tekan  <a href="https://t.me/terviral”>Coba Lagi</a>"
         },
         "CHANNELJOIN":{
             "description": "Masukkan ID channel grup untuk identifikasi BOT bisa membaca pengguna yang masuk",
-            "value":"-1001564048693"
+            "value":""
         },
         "LINKCHANNEL":{
             "description": "Link channel grup masukkan disini dan ikuti format penulisan",
-            "value":"Gabung-https://t.me/lgviralchat"
+            "value":"🔞ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ🔞-https://t.me/"
         }
         
         	
